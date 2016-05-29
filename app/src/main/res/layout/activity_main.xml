@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="org.solarex.ndp0.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/ndp0_text"
+        android:text="@string/main_title"/>
+    <Button
+        android:id="@+id/main_btn_0"
+        style="@style/ndp0_text"
+        android:text="@string/main_btn_0"
+        android:layout_width="@dimen/main_btn_width"
+        android:layout_height="@dimen/main_btn_height"/>
+    <Button
+        android:id="@+id/main_btn_1"
+        style="@style/ndp0_text"
+        android:text="@string/main_btn_1"
+        android:layout_width="@dimen/main_btn_width"
+        android:layout_height="@dimen/main_btn_height"/>
+    <Button
+        android:id="@+id/main_btn_2"
+        style="@style/ndp0_text"
+        android:text="@string/main_btn_2"
+        android:layout_width="@dimen/main_btn_width"
+        android:layout_height="@dimen/main_btn_height"/>
+    <Button
+        android:id="@+id/main_btn_3"
+        style="@style/ndp0_text"
+        android:text="@string/main_btn_3"
+        android:layout_width="@dimen/main_btn_width"
+        android:layout_height="@dimen/main_btn_height"/>
+    <Button
+        android:id="@+id/main_btn_4"
+        style="@style/ndp0_text"
+        android:text="@string/main_btn_4"
+        android:layout_width="@dimen/main_btn_width"
+        android:layout_height="@dimen/main_btn_height"/>
+    <Button
+        android:id="@+id/main_btn_5"
+        style="@style/ndp0_text"
+        android:text="@string/main_btn_5"
+        android:layout_width="@dimen/main_btn_width"
+        android:layout_height="@dimen/main_btn_height"/>
+</LinearLayout>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NDP0</string>
+    <string name="main_title">Solarex\'s Nano Degree Projects</string>
+    <string name="main_btn_click">This will launch my %1$s application</string>
+    <string name="main_btn_0">Popular Movies</string>
+    <string name="main_btn_1">Stock Hawk</string>
+    <string name="main_btn_2">Build it Bigger</string>
+    <string name="main_btn_3">Make Your App Material</string>
+    <string name="main_btn_4">Go Ubiquitous</string>
+    <string name="main_btn_5">Capstone</string>
+</resources>
